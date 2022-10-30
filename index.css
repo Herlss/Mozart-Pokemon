@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@font-face {
+    font-family: 'Silk';
+    src: url('assets/fonts/silkscreen/slkscr.ttf');
+}
 
 * {
     margin: 0;
@@ -7,7 +10,7 @@
 }
 
 body {
-    font-family: 'Silkscreen', cursive;
+    font-family: 'Silk', cursive;
 }
 
 main {

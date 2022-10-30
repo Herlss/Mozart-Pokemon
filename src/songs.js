@@ -4,7 +4,7 @@ const songs = [
         name: 'Piano Before Cynthia',
         path:'assets/songs/song before cynthia.mp3',
         sheet:'assets/images/song before cynthia.png',
-        answer: 'Pokémon',
+        answer: 'Pokemon',
         youtube: 'https://www.youtube.com/embed/j6okxJ1CYJM'
     },
     {
@@ -28,7 +28,7 @@ const songs = [
         name: 'Codename St. Anne',
         path: 'assets/songs/S.S Anne.mp3',
         sheet: 'assets/images/ss anne.png',
-        answer: 'Pokémon',
+        answer: 'Pokemon',
         youtube: 'https://www.youtube.com/embed/mAhPr15XURU',
     },
     {
@@ -36,7 +36,7 @@ const songs = [
         name: 'Bycicle Theme',
         path: 'assets/songs/Bycicle theme.mp3',
         sheet: 'assets/images/bycicle theme.png',
-        answer: 'Pokémon',
+        answer: 'Pokemon',
         youtube: 'https://www.youtube.com/embed/df_2Cn4RLXE'
     },
 ]
