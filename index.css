@@ -51,7 +51,6 @@ main::before {
 }
 
 #question_content {
-    width: 800px;
     margin: 20px auto; 
 }
 
@@ -215,4 +214,15 @@ main::before {
 #pokemon:hover {
     color: rgb(255, 70, 70);
     cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+    #question_sheet {
+        width: 370px;
+    }
+
+    #result-inner iframe {
+        height: 200px;
+        width: 350px;
+    }
 }
