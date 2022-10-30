@@ -4,7 +4,7 @@ Version 1 of Mozart VS Pokémon.
 
 Guess if the song is from Mozart or Pokémon.
 
-Check it out on ghPages: 
+Check it out on ghPages: https://herlss.github.io/Mozart-Pokemon/
 
 Coming soon on V2:
 
