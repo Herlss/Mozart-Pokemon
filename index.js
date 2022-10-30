@@ -33,7 +33,7 @@ function update_time() {
 }
 
 function give_options() {
-    dom.timer_div.textContent = 'Escolha uma das opções no título!!'
+    dom.timer_div.textContent = 'Escolha uma das opcoes no titulo!!'
     dom.timer_div.classList.add('done')
 }
 
