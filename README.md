@@ -10,3 +10,4 @@ Coming soon on V2:
 
 - More songs (currently 5 only)
 - Score System
+- Score Ranking
